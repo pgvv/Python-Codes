@@ -5,3 +5,6 @@ Projects in the order of increasing complexity:
 * Health Potion
 * Hello You
 * Email Slicer
+* Ridiculous Security System
+* Cinema Simulator
+* Baby Simulator
