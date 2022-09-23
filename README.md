@@ -8,3 +8,4 @@ Projects in the order of increasing complexity:
 * Ridiculous Security System
 * Cinema Simulator
 * Baby Simulator
+* Pig Latin Translator
