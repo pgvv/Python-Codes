@@ -12,3 +12,4 @@ Projects in the order of increasing complexity:
 * Tic Tac Toe
 * Coin
 * Coin Multiple
+* Bank
