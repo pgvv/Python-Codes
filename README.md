@@ -9,3 +9,6 @@ Projects in the order of increasing complexity:
 * Cinema Simulator
 * Baby Simulator
 * Pig Latin Translator
+* Tic Tac Toe
+* Coin
+* Coin Multiple
