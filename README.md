@@ -10,4 +10,3 @@ Projects in the order of increasing complexity:
 * Coin
 * Coin Multiple
 * Bank
-* Capital Bikeshare: Analyzing Bike Rental Demand
