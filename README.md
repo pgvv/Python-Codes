@@ -1,7 +1,7 @@
 # Python-Codes
 This repository includes my learnings through Python projects. 
 
-* Tic Tac Toe
+* Bank
 * Coin
 * Coin Multiple
-* Scientific Calculator
+* Scientific Calculator: A .py file with executable file created using PyInstaller
