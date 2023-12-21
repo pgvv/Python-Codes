@@ -1,8 +1,7 @@
 # Python-Codes
-This repository includes my learnings for Python along with projects. The code inside the files is in the order of decreasing complexity as you go down. 
+This repository includes my learnings through Python projects. 
 
-Projects in the order of increasing complexity:
 * Tic Tac Toe
 * Coin
 * Coin Multiple
-* Bank
+* Scientific Calculator
